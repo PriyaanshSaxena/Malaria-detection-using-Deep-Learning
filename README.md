@@ -1,6 +1,6 @@
 # Implement Deep Learning Techniques to detect Malaria using IBM Cloud
 
-Model trained using Tensorflow and web-app made using flask.
+Model trained using Tensorflow.
 
 DataSet: [https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 
